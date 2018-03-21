@@ -1,0 +1,20 @@
+{
+  "fitbit": {
+    "appUUID": "60b8ed1b-59ca-48bf-bb23-c85e78d8304d",
+    "appType": "app",
+    "appDisplayName": "Generate",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#9c27b0",
+    "requestedPermissions": [
+      "access_internet"
+    ],
+    "buildTargets": [
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Generate"
+      }
+    }
+  }
+}
